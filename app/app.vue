@@ -1,8 +1,6 @@
 <template>
   <v-app>
-    <div
-      class="d-flex align-items-center justify-content-center rounded-lg ma-4"
-    >
+    <div class="d-flex justify-center h-100 align-center ma-4">
       <DataTable></DataTable>
     </div>
   </v-app>
