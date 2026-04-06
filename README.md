@@ -1,6 +1,11 @@
 # INÍCIO - UTILIZADO NUXT V4
 
 Utilizado em algumas areas do codigo IA (Claude) para organização do design e ajuda com lógica de estruturação
+Decisão de escolha do nuxt por facilidades, como auto import, configurações de route, estruturas de pastas e configurações iniciais facilitadas
+
+# Melhorias futuras
+
+Uma melhor distribuição e organização de funcões, e também um design melhorado
 
 # Nuxt Minimal Starter
 
@@ -8,7 +13,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Setup
 
-Make sure to install dependencies:
+Instalar dependencias:
 
 ```bash
 # npm
